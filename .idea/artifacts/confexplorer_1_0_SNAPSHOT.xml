@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="confexplorer-1.0-SNAPSHOT">
+    <output-path>C:\Users\youri\Development\IdeaProjects\web-app-react-kotlin-js-gradle\build\libs</output-path>
+    <root id="archive" name="confexplorer-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
